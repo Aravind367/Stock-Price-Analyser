@@ -1,2 +1,2 @@
 # Stock-Price-Analyser
-This will help in analyse stock prices of different companies
+This will help in analyzing the stock prices of different companies
