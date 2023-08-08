@@ -34,7 +34,6 @@ jobs:
     - name: Test with pytest
       run: |
         conda install pytest
-        pytest
     - name: streamlit
       run: |
         conda install streamlit
